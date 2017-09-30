@@ -1,4 +1,4 @@
-
+--teste
 CREATE TABLE pessoa (
   codigo bigint(20) NOT NULL AUTO_INCREMENT,
   dt_nasc_fundacao datetime NOT NULL,
